@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544513901 source:f:\c¡∑œ∞\undigraph\main.cpp
+	"udg.h"
+
+1544512140 f:\c¡∑œ∞\undigraph\udg.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1544512140 source:f:\c¡∑œ∞\undigraph\udg.cpp
+	"udg.h"
+
